@@ -1,0 +1,6 @@
+C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build/CMakeFiles/1.dir
+C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build/CMakeFiles/rebuild_cache.dir
+C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build/CMakeFiles/2.dir
+C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build/CMakeFiles/package.dir
+C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build/CMakeFiles/package_source.dir
+C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build/CMakeFiles/edit_cache.dir

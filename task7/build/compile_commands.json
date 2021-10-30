@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\1.dir\\main.cpp.obj -c \"C:\\Users\\oketa\\OneDrive - NTNU\\NTNU 5. semester\\C++\\task7\\main.cpp\"",
+  "file": "C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/main.cpp"
+},
+{
+  "directory": "C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\1.dir\\fraction.cpp.obj -c \"C:\\Users\\oketa\\OneDrive - NTNU\\NTNU 5. semester\\C++\\task7\\fraction.cpp\"",
+  "file": "C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/fraction.cpp"
+},
+{
+  "directory": "C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\2.dir\\setMain.cpp.obj -c \"C:\\Users\\oketa\\OneDrive - NTNU\\NTNU 5. semester\\C++\\task7\\setMain.cpp\"",
+  "file": "C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/setMain.cpp"
+},
+{
+  "directory": "C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\2.dir\\set.cpp.obj -c \"C:\\Users\\oketa\\OneDrive - NTNU\\NTNU 5. semester\\C++\\task7\\set.cpp\"",
+  "file": "C:/Users/oketa/OneDrive - NTNU/NTNU 5. semester/C++/task7/set.cpp"
+}
+]
